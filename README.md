@@ -15,7 +15,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://echelon-labs.ai/contribute)
 [![License](https://img.shields.io/badge/License-PRISM--SLR-orange)](LICENSE.md)
 </div>
----
+
 
 ## Mission
 
