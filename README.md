@@ -1,11 +1,13 @@
 # PRISM: Protocol for Recursive Introspection in Safety-critical Models
 
 <div align="center">
+  
   <img src="docs/assets/prism_logo.png" alt="PRISM" width="180"/>
   <br>
   <strong>A research-grade framework for structured self-evaluation and constitutional alignment verification of AI systems</strong>
   <br>
   <em>Developed by Echelon Labs | Version 1.2.0</em>
+  
 </div>
 
 [![Governance-Compatible](https://img.shields.io/badge/Governance-Compatible-blue)](https://echelon-labs.ai/governance)
