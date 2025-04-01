@@ -1,7 +1,7 @@
 # PRISM: Protocol for Recursive Introspection in Safety-critical Models
 
 <div align="center">
-  <img src="docs/assets/prism_logo.png" alt="PRISM Logo" width="180"/>
+  <img src="docs/assets/prism_logo.png" alt="PRISM" width="180"/>
   <br>
   <strong>A research-grade framework for structured self-evaluation and constitutional alignment verification of AI systems</strong>
   <br>
