@@ -8,13 +8,13 @@
   <br>
   <em>Developed by Echelon Labs | Version 1.2.0</em>
   
-</div>
+
 
 [![Governance-Compatible](https://img.shields.io/badge/Governance-Compatible-blue)](https://echelon-labs.ai/governance)
 [![Alignment-Verified](https://img.shields.io/badge/Alignment-Verified-green)](https://echelon-labs.ai/alignment)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://echelon-labs.ai/contribute)
 [![License](https://img.shields.io/badge/License-PRISM--SLR-orange)](LICENSE.md)
-
+</div>
 ---
 
 ## Mission
