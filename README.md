@@ -14,6 +14,10 @@
 [![Alignment-Verified](https://img.shields.io/badge/Alignment-Verified-green)](https://echelon-labs.ai/alignment)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://echelon-labs.ai/contribute)
 [![License](https://img.shields.io/badge/License-PRISM--SLR-orange)](LICENSE.md)
+
+
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
+
 </div>
 
 
