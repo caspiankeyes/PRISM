@@ -8,8 +8,6 @@
   <em>Developed by Echelon Labs | Version 1.3.4</em>
 
 
-> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies are only available via private governance channels.
-
 [![Governance-Compatible](https://img.shields.io/badge/Governance-Compatible-blue)](https://echelon-labs.ai/governance)
 [![Alignment-Verified](https://img.shields.io/badge/Alignment-Verified-green)](https://echelon-labs.ai/alignment)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://echelon-labs.ai/contribute)
