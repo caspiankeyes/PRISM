@@ -16,7 +16,6 @@
 > **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies are only available via private governance channels.
 
 </div>
----
 
 ## Mission
 
