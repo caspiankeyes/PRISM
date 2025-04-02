@@ -1797,7 +1797,7 @@ We welcome contributions from alignment-oriented researchers and institutions. D
 
 For secure communication regarding PRISM:
 
-- 📧 **Vetted Collaboration Inquiries**: governance@echelon-labs.ai
+- 📧 **Vetted Collaboration Inquiries**: recursiveauto@gmail.com or governance@echelon-labs.ai
 - 🔐 **Security Reports**: security@echelon-labs.ai (PGP key available)
 - 📚 **Research Discussion**: research@echelon-labs.ai
 - 🏛️ **Governance Integration**: governance-integration@echelon-labs.ai
