@@ -1,4 +1,4 @@
-# PRISM: Protocol for Recursive Introspection in Safety-critical Models
+# PRISM: Protocol for Recursive Introspection in Safety-Critical Models
 
 <div align="center">
   
