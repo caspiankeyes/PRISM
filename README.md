@@ -16,7 +16,7 @@
 [![License](https://img.shields.io/badge/License-PRISM--SLR-orange)](LICENSE.md)
 
 
-> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies are only available via private governance channels.
 
 </div>
 
