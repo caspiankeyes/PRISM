@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://github.com/caspiankeyes/PRISM/blob/main/PRISM%20Documentation.md" alt="PRISM" width="180"/>
+  <img src="https://github.com/caspiankeyes/PRISM/blob/main/PRISM%20Documentation.md" alt="PRISM Documentation" width="180"/>
   <br>
   <strong>A research-grade framework for structured self-evaluation and constitutional alignment verification of AI systems</strong>
   <br>
