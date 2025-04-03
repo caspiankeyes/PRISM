@@ -4,7 +4,6 @@
   <br>
   <strong>A formal framework for recursive self-evaluation and constitutional alignment verification in AI systems</strong>
   <br>
-  <em>Developed by Echelon Labs | Version 1.3.4</em>
 
 
 [![Governance-Compatible](https://img.shields.io/badge/Governance-Compatible-blue)](https://echelon-labs.ai/governance)
@@ -12,6 +11,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://echelon-labs.ai/contribute)
 [![License](https://img.shields.io/badge/License-PRISM--SLR-orange)](LICENSE.md)
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2305.18429-blue)](https://doi.org/10.48550/arXiv.2305.18429)
+  <em>Developed by Echelon Labs | Version 1.3.4</em>
+
 > **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies are only available via private governance channels.
 
 </div>
